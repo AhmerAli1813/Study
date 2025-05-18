@@ -1,0 +1,21 @@
+Question #2: Function which returns the periodic payment for an annuity is
+Correct Answer: PMT
+
+Question #3: Market value of the share is
+Correct Answer: the price at which share is sold
+
+Question #5: Function which returns the interest rate per period of annuity is
+Correct Answer: RATE
+
+Question #6: In EXCEL, T4 refers to which of the following?
+Correct Answer: A cell in column T and row 4
+
+Question #7: If P=Principal, R=rate of interest per annum, T=time in years, l=simple interest then total amount to be paid after T years will be
+Correct Answer: None of these
+
+Question #9: The formula of the Price-earnings ratio =
+Correct Answer: Market value per share / Earnings per share
+
+Question #10: It is asked to find 30% of 25. Which of the following is correct list of given data?
+Correct Answer: Rate = 30%; Base = 25
+

@@ -1,0 +1,331 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><!-- start: error -->
+<html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Virtual Community</title>
+<meta name="robots" content ="nofollow">
+<!-- start: headerinclude -->
+<link rel="alternate" type="application/rss+xml" title="Latest Threads (RSS 2.0)" href="http://vugujranwala.com/vc/syndication.php" />
+<link rel="alternate" type="application/atom+xml" title="Latest Threads (Atom 1.0)" href="http://vugujranwala.com/vc/syndication.php?type=atom1.0" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<script type="text/javascript" src="http://vugujranwala.com/vc/jscripts/prototype.js?ver=1603"></script>
+<script type="text/javascript" src="http://vugujranwala.com/vc/jscripts/general.js?ver=1603"></script>
+<script type="text/javascript" src="http://vugujranwala.com/vc/jscripts/popup_menu.js?ver=1600"></script>
+<script type="text/javascript" src="/js/jquery.min.js"></script>
+<script type="text/javascript" src="/vc/images/tranquil/scripts/jquery.color.js"></script>
+<script type="text/javascript" src="/vc/images/tranquil/scripts/package.js"></script>
+
+  <link type="text/css" rel="stylesheet" href="http://vugujranwala.com/vc/cache/themes/theme5/global.css" />
+
+<script type="text/javascript">
+<!--
+	var cookieDomain = ".vugujranwala.com";
+	var cookiePath = "/";
+	var cookiePrefix = "";
+	var deleteevent_confirm = "Are you sure you want to delete this event?";
+	var removeattach_confirm = "Are you sure you want to remove the selected attachment from this post?";
+	var loading_text = 'Loading. <br />Please Wait..';
+	var saving_changes = 'Saving changes..';
+	var use_xmlhttprequest = "1";
+	var my_post_key = "f18ecf61e5cf1e1a9531e4b376b812fc";
+	var imagepath = "images/tranquil";
+// -->
+</script>
+
+<script language="javascript" type="text/javascript" src="http://vugujranwala.com/vc/jscripts/myadvertisements.js"></script>
+<!-- end: headerinclude -->
+</head>
+<body>
+<!-- start: header -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-10022575-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+if (document.body.id == 0) {document.body.id = "forums";}	
+</script>
+
+<div id="header">
+<div id="header_wrap">
+
+<div class="logo"><a href="/index.php"><img src="http://vugujranwala.com/vc/images/tranquil/logo.png" alt="Virtual Community" title="Virtual Community" /></a></div>
+
+<div id="bridge">
+<a href="#" class="panel_toggle">
+Login | Logout | User Control
+</a>
+			<div class="menu">
+<!--				<ul>
+					<li><a href="http://vugujranwala.com/vc/portal.php" class="portal">Portal</a></li>
+                                        <li> <a href="http://vugujranwala.com/vc/index.php" class="forums">Forums</a>   </li>
+					<li><a href="http://vugujranwala.com/vc/search.php" class="search">Search</a></li>
+					<li><a href="http://vugujranwala.com/vc/memberlist.php" class="memberlist">Member List</a></li>
+					<li><a href="http://vugujranwala.com/vc/calendar.php" class="calendar">Calendar</a></li>
+					<li><a href="http://vugujranwala.com/vc/misc.php?action=help" class="help">Help</a></li>
+                    
+                    
+				</ul> -->
+                
+                                <ul>
+                  <li><a href="/index.php?p=1">Home</a> 
+                    <ul>
+                      <li><a href="/We/AboutUs/index.php?p=1" >About Us</a></li>
+					<!-- <li><a href="/We/AboutVu/index.php?p=1" >About Vu</a></li>-->
+					<!-- <li><a href="/We/OurTeam/index.php?p=1">Our Team</a></li>-->
+                      <li><a href="/We/Contactus/index.php?p=1">Contact us</a></li>
+                    </ul>
+                  </li>
+                  <li><a href="#">Learning Center</a> 
+                    <ul>
+<!--                      <li><a href="/learn/lectures/index.php?p=2" >Online Lectures</a></li>-->
+<!--                      <li><a href="/learn/quiz/index.php?p=2" >Online Quiz</a></li>-->
+                      <li><a href="/learn/MCQS/start.php?p=2" >MCQS [With References]</a></li>
+                      <li><a href="/learn/languages/index.php?p=2">Learn Languages 
+                        </a></li>
+                      <li><a href="/learn/Tutorials/index.php?p=2">Tutorials</a></li>
+                    </ul>
+                  </li>
+                  <li><a href="#" >Download </a> 
+                    <ul>
+                      <li><a href="/Download/assignments/index.php?p=3"> Old Assignments 
+                        </a></li>
+                      <li><a href="/Download/pastPapers/index.php?p=3"> Past Papers 
+                        </a></li>
+                      <li><a href="/Download/soft/index.php?p=3"> Software </a></li>
+                                    
+                    </ul>
+                  </li>
+<li><a href="http://vugujranwala.com/vc/" >Forum</a>  </li>
+                </ul>
+			</div>
+</div>
+<div class="search_box">
+
+<a href="/vc/search.php" class="adv_search">Advanced</a>
+
+<form method="post" action="/vc/search.php" style="">
+<input type="hidden" name="action" value="do_search" />
+<input type="hidden" name="tid" value="" />
+<input type="text" class="textbox" name="keywords" value="Search..." onFocus="if(this.value == 'Search...') { this.value = ''; }" onBlur="if(this.value=='') { this.value='Search...'; }" " />
+
+<input class="complete" name="search" type="image" src="images/tranquil/search.png" value="">
+
+</form>
+
+</div>
+<div id="bridge2">
+<div class="menu">
+<ul>
+<li><a href="#">Forum Status: </a></li>
+  <li><a href="http://vugujranwala.com/vc/search.php?action=getnew">New Posts</a></li>
+              <li> <a href="http://vugujranwala.com/vc/search.php?action=getdaily">Today's Posts</a></li>
+              
+              <li> <a href="#" onClick="MyBB.popupWindow('http://vugujranwala.com/vc/misc.php?action=buddypopup', 'buddyList', 350, 350);">Buddy List</a></li>
+              <li><a href="http://vugujranwala.com/vc/private.php">Messages{1}</a> </li>   
+          </ul>
+          </div>
+          </div>
+</div>
+</div>
+
+	<div id="container"><div style="clear:both;">
+<table border="0" cellspacing="2" cellpadding="10" class="tborder">
+	<thead>
+		<tr> 
+			<td class="thead" width="100" align="center"><strong>Latest news: </strong></td><td class="thead"><strong><marquee direction="left" scrollamount="5">--- <a href="/vc/showthread.php?tid=6019">Result Announced</a> --- <a href="/vc/showthread.php?tid=6018">TiE 2014 Idea of Year Award</a> --- <a href="/vc/showthread.php?tid=5989">Business Plan Competition 2014</a> --- <a href="/vc/showthread.php?tid=426">Learn C++ First Lesson Part Two in Urdu By Virtual Community</a> --- </marquee></strong></td>
+		</tr>
+	</thead>
+</table></div>
+		<a name="top" id="top"></a>
+			<hr class="hidden" />
+			<div id="panel">
+				<!-- start: header_welcomeblock_guest -->
+<form action="/vc/member.php" method="post">
+
+<input type="text" class="textbox" name="username" value="Username" onfocus="if(this.value == 'Username') { this.value = ''; }" onblur="if(this.value=='') { this.value='Username'; }" />
+
+<input type="password" class="textbox" name="password" value="password" onfocus="if(this.value == 'password') { this.value = ''; }" onblur="if(this.value=='') { this.value='password'; }" />
+
+<div style="float: right; margin-top: 8px;">
+<label title="If ticked, your login details will be remembered on this computer, otherwise, you will be logged out as soon as you close your browser."><input type="checkbox" class="checkbox" name="remember" checked="checked" value="yes" style="vertical-align: middle; margin-top: -1px;" /> Remember me</label>
+</div>
+
+<input type="submit" class="button" name="submit" value="Login" />
+<input type="hidden" name="action" value="do_login" />
+
+</form>
+
+
+<div style="margin-top: 10px;">
+<img class="icon" src="images/tranquil/key.png" alt="" /><a href="http://vugujranwala.com/vc/member.php?action=lostpw">Lost Password?</a>
+&nbsp; - &nbsp;
+<img class="icon" src="images/tranquil/register.png" alt="" /><a href="http://vugujranwala.com/vc/member.php?action=register">Register</a>
+</div>
+<!-- end: header_welcomeblock_guest -->
+			</div>
+		<hr class="hidden" />
+		<div id="content">
+			<!-- start: nav -->
+
+<div class="navigation">
+<!-- start: nav_bit -->
+<a href="http://vugujranwala.com/vc/index.php">Virtual Community</a>
+<!-- end: nav_bit --><!-- start: nav_sep_active -->
+ / 
+<!-- end: nav_sep_active --><!-- start: nav_bit_active -->
+<span class="active">Board Message</span>
+<!-- end: nav_bit_active -->
+</div>
+<!-- end: nav -->
+			
+			
+			
+			
+			
+			<br />
+<div class="tborder" style="width:906px;" align="center">
+
+<!-- start: mysb_shoutbox -->
+<script type="text/javascript" src="/vc/jscripts/myshoutbox.js?ver=1400"></script><style type="text/css">.shoutbox {	margin: 0;	padding: 0;	left: 0;}#spage a:link , #spage a.visted{color:#fff !important;text-decoration:underline;}li.shoutbox_normal {	list-style: none;	margin: 0;	position: relative;	cursor: pointer;	color: transparent;	display: inline ;	border: 1px;	border-color: #FFFFFF;}li.shoutbox_color {	list-style: none;	position: relative;	cursor: pointer;	color: transparent;	display: inline ;	border: 0px;	float: left;	margin: 1px;}.shoutbox_button_color a {color: #4268B1;    font-weight: bold;    letter-spacing: 0.01em;    text-decoration: none;    word-spacing: 0.03em;}.shoutbox_button_color a:hover, .shoutbox_button_color a:active {	color: #000;	text-decoration: none;	font-weight: bold;	}	.tcat a:link {    color: #fff !important;	margin-left:10px;	}.tcat > div {    padding: 10px;}</style><!--<div class="navigation" style="height:35px;overflow:hidden; margin-top:5px; margin-bottom:5px; padding:2px !important;"><div id="spage" style="left:0px;top:0px;  height:35px; background: #109FFF;  overflow:hidden; ;"></div><script language="javascript" src="http://vugujranwala.com/include/dticker_ticker.js"></script></div>--><table border="0" cellspacing="1" cellpadding="4" class="tborder border"><thead>
+
+    
+    <tr><td class="tcat" style="padding:3px;"><div class="expcolimage"><img src="/vc/images/tranquil/collapse.gif" alt="[-]" name="shoutbox_img" class="expander" id="shoutbox_img" /></div><div><strong>Shout Box</strong><div style="float:right"> <a href="/vc/index.php?action=full_shoutbox" class="css_button_large" style="cursor: pointer; color:#fff !important; padding:6px;">View Full Shout Box</a> <a href="/vc/pspshoutbox.php" class="css_button_large" style="cursor: pointer; color:#fff !important; padding:6px;">Portable Device version</a><a style="cursor: pointer; color:#fff !important; padding:6px;" id="smilies"  onclick="window.open('/vc/misc.php?action=smilies&amp;popup=true&amp;editor=clickableEditor','Smilies','scrollbars=yes, menubar=no,width=460,height=360,toolbar=no');" class="css_button_large">Smilies</a><a style="cursor: pointer; color:#fff !important; padding:6px;" onClick="window.open('/vc/shoutbox.php','Shout Box','scrollbars=yes, menubar=no,width=825,height=449,toolbar=no');" class="css_button_large">Popup Shoutbox</a></div></div></td></tr></thead><tbody id="shoutbox_e"><tr> <td class="trow2" width="76%"><form onSubmit="ShoutBox.postShout(); $('shout_data').value = ''; return false;">   <table width="100%" border="0" cellpadding="0" cellspacing="0">     <tr>       <td width="150px" align="center" class="thead" style="background:#FFF; color:#000;">Shout:</td>       <td align="center"><input type="text" id="shout_data" size="90" class="textbox" />         <input type="submit" value="Shout Now!" id="shouting-status" class="button" /></td>     </tr>   </table></form></td> </tr><tr> <td class="trow1"><div id="shoutbox_data" style="height: 200px; overflow: auto;">Loading...</div> </td> </tr></tbody></table>
+
+<script type="text/javascript">ShoutBox.refreshInterval = 15;ShoutBox.MaxEntries = 30;ShoutBox.lang = ['Shouting...', 'Shout Now!', 'Loading...', 'Flood check! Please try again in <interval> seconds.', 'Couldn\'t shout or perform action. Please try again!', 'Error: you have already sent a message to this user. Wait until the user deletes the message.', 'Deleted!', 'Invalid user id', 'You cannot send a message to yourself.', 'Such shout does not exist.', 'The selected shout has been reported successfully!', 'You have reported that shout already!'];ShoutBox.disableShout();Event.observe(window, 'load', ShoutBox.showShouts); </script><br />
+<!-- end: mysb_shoutbox -->
+<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FVuGUjranwala&amp;send=false&amp;layout=standard&amp;width=870&amp;show_faces=true&amp;font=tahoma&amp;colorscheme=light&amp;action=like&amp;height=70&amp;appId=434178265503" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:870px; height:70px;" allowTransparency="true"></iframe>
+<br /> 
+</div>
+
+
+
+</div>
+</br>
+<!-- end: header -->
+<br />
+<table border="0" cellspacing="2" cellpadding="10" class="tborder">
+<tr>
+<td class="thead"><span class="smalltext"><strong>Virtual Community</strong></span></td>
+</tr>
+<tr>
+<td class="trow1"><!-- start: error_nopermission -->
+You are either not logged in or do not have permission to view this page. This could be because one of the following reasons:
+<ol>
+<li>You are not logged in or registered. Please use the form at the bottom of this page to login.</li>
+<li>You do not have permission to access this page. Are you trying to access administrative pages or a resource that you shouldn't be?  Check in the forum rules that you are allowed to perform this action.</li>
+<li>Your account may have been disabled by an administrator, or it may be awaiting account activation.</li>
+<li>You have accessed this page directly rather than using appropriate forms or links.</li>
+</ol>
+<form action="member.php" method="post">
+<input type="hidden" name="action" value="do_login" />
+<input type="hidden" name="url" value="" />
+<table border="0" cellspacing="2" cellpadding="10" class="tborder">
+<tr>
+<td class="thead" colspan="2"><span class="smalltext"><strong>Login</strong></span></td>
+</tr>
+<tr>
+<td class="trow1"><strong></strong></td>
+<td class="trow1"><input type="text" class="textbox" name="username" tabindex="1" /></td>
+</tr>
+<tr>
+<td class="trow2"><strong>Password:</strong></td>
+<td class="trow2"><input type="password" class="textbox" name="password" tabindex="2" /></td>
+</tr>
+<tr>
+<td class="trow2" colspan="2"><span class="smalltext" style="float:right; padding-top:3px;"><a href="member.php?action=register">Need to register?</a> | <a href="member.php?action=lostpw">Forgotten your password?</a>&nbsp;</span>&nbsp;<input type="submit" class="button" value="Login" tabindex="3" /></td>
+</tr>
+</table>
+</form>
+<br />
+<!-- end: error_nopermission --></td>
+</tr>
+</table>
+<!-- start: footer -->
+<br />
+
+				<div><!-- start: footer_languageselect -->
+<form method="get" action="/vc/attachment.php" id="lang_select">
+		<input type="hidden" name="aid" value="971" />
+
+		<input type="hidden" name="my_post_key" value="f18ecf61e5cf1e1a9531e4b376b812fc" />
+		<select name="language" onchange="MyBB.changeLanguage();">
+			<optgroup label="Quick Language Select">
+				<option value="english" selected="selected">&nbsp;&nbsp;&nbsp;English (American)</option>
+
+			</optgroup>
+		</select>
+		<!-- start: gobutton -->
+<input type="submit" class="button" value="Go" />
+<!-- end: gobutton -->
+	</form>
+<!-- end: footer_languageselect --></div>
+                <div style="margin:0 auto; text-align:center;">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-5110282913462159";
+/* Bottom 01 */
+google_ad_slot = "1481767497";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+			</div>
+		<hr class="hidden" />
+	<!-- 			<div id="debug"></div>
+The following piece of code allows MyBB to run scheduled tasks. DO NOT REMOVE --><!-- End task image code -->
+
+		</div>
+</div>
+
+			<div class="bottommenu">
+            			<div class="bottommenuContent" style="height:height: 250px;;">
+                            <!--CopyRight-->
+                            <div id="copyright">
+                              <p><img src="/VC/images/FooterLogo.png" width="256" height="118" /></p>
+                            </div>
+            
+                            <!--Left Area Links -->
+                                <div id="LearningLinks">
+                            <h1>				Learning Resources </h1>
+                            <ul>
+
+                                                  <li><a href="/learn/quiz/index.php?p=2" ><img src="/VC/images/QuizIcon.png" width="29" height="29" align="absmiddle" />Online Quiz</a></li>
+                                                  <li><a href="/learn/MCQS/start.php?p=2" ><img src="/VC/images/McqsIcon.png" width="29" height="29" align="absmiddle" />MCQS Offline</a></li>
+                            <li><a href="/learn/languages/index.php?p=2"><img src="/VC/images/learnlanicon.png" width="29" height="29" align="absmiddle" />Learn Languages 
+                                    </a></li>
+                                    <li><a href="/learn/Tutorials/index.php?p=2"><img src="/VC/images/taticon.png" width="29" height="29" align="absmiddle" />Tutorials</a></li>
+                            </ul>
+                                </div>
+                            
+                            <!--Social Media -->
+                            <div id="socialmedia">
+                            <h1>Find US</h1>
+                            <span class="fb"><a href="https://www.facebook.com/VuGujranwala" target="_blank"><img src="/VC/images/facebook-32.png" width="32" height="32" /></a></span>
+                            <span class="twitter"><a href="https://twitter.com/VuGujranwala" target="_blank"><img src="/VC/images/twitter-32.png" width="32" height="32" /></a></span>
+                            <span class="youtube"><a href="http://www.youtube.com/VuGujranwalaDotCom" target="_blank"><img src="/VC/images/youtube-32.png" width="32" height="32" /></a></span>
+                            </div>
+			</div>
+             <div class="bottommenuContent" style="bottom:o; clear:both;" align="center">
+   <p><a href="http://vugujranwala.com/We/OurPolicies/index.php?p=1">Terms of Use</a> | <a href="http://vugujranwala.com/We/OurTeam/index.php?p=1">Our Team</a></p>
+  <p>VuGujranwala.com  | Virtual Community (c) All rights reserved 2008-2013<br />
+    Powered By: <a href="http://www.eventualsol.com/" target="_blank">Eventual Solutions</a></p>
+
+ </div>
+            
+       		</div>
+<!-- end: footer -->
+</body>
+</html>
+<!-- end: error -->

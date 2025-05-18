@@ -1,0 +1,26 @@
+Breaking the tasks into a number of subtasks compatible with the number of available processors is called ________.
+Correct Answer: Load Balancing
+
+The _____ configuration is popular in wireless networks where communication is conducted by means of radio broadcast.
+Correct Answer: Mesh
+
+___________ refers to the address of a file (resource) accessible on the Internet.
+Correct Answer: Uniform Resource Locator (URL)
+
+User can see directories or files by using______.
+Correct Answer: Windows Explorer
+
+What is the main purpose of a bridge in a network?
+Correct Answer: To filter and forward messages based on destination addresses.
+
+In enhancing computer performance, which component is a notable asset?
+Correct Answer: CPU
+
+Internet is a collection of networks constructed by _____________
+Correct Answer: Internet Service Provider
+
+The program permanently stored in the machine's ROM in a general-purpose computer is called _____.
+Correct Answer: BOOT loader
+
+What software is utilized to generate a spreadsheet?
+Correct Answer: Excel
